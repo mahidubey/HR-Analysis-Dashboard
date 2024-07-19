@@ -2,5 +2,5 @@ The HR Analytics Dashboard is a powerful tool that provides comprehensive insigh
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mahidubey/HR-Analysis-Dashboard/blob/main/Hr%20analaytic%20Dashboard.jpeg?raw=true)
 
